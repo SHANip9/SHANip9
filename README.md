@@ -1,18 +1,17 @@
 
 # Hi there, I'm Souradeep! 👋
 
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHANip9/SHANip9/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHANip9/SHANip9/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SHANip9/SHANip9/output/github-snake.svg">
-</picture>
 
 ---
-
-### 🛠 Tech Stack
+###  Tech Stack
+### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,bash,linux,debian,vim,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,bash,linux,debian,vim,vscode,git" />
+</p>
+
+### 💻 Frameworks & Libraries (MERN & Python)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,pytorch,flask,fastapi,mysql" />
 </p>
 
 ---
