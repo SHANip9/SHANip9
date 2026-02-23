@@ -6,7 +6,7 @@
 ###  Tech Stack
 ### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,bash,linux,debian,vim,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,bash,linux,debian,vim,vscode,git,docker" />
 </p>
 
 ### 💻 Frameworks & Libraries (MERN & Python)
