@@ -11,7 +11,7 @@
 
 ### 💻 Frameworks & Libraries (MERN & Python)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,pytorch,flask,fastapi,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,pytorch,flask,fastapi,mysql,postgresql" />
 </p>
 
 ---
