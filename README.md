@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,bash,linux,debian,vim,vscode,git,docker" />
 </p>
 
-### 💻 Frameworks & Libraries (MERN & Python)
+### 💻 Frameworks & Libraries(MERN & Python)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,pytorch,flask,fastapi,mysql,postgresql" />
 </p>
