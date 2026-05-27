@@ -9,7 +9,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,bash,linux,debian,vim,vscode,git,docker" />
 </p>
 
-### 💻 Frameworks & Libraries(MERN & Python)
+### 💻 Frameworks & Libraries(MERN & Python libs)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,pytorch,flask,fastapi,mysql,postgresql" />
 </p>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about new technologies, life, phycology, phylosophy , brain storming topics
 - 📫 How to reach me: souradeep.prosid@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am an artist , passionate story writter, singer:)
+- ⚡ Fun fact: I am an artist a sketcher, passionate story writter, singer:)
 -->
 
 
